@@ -889,3 +889,6 @@
 {"key":"sessionstorage:9B0yOtCt+dTirg+oVCkO8qxh","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
 {"key":"sessionstorage:TuBTzUe+I5UbxEc04IsJt0yz","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
 {"key":"sessionstorage:vRnRK1+CAhQR9ClCJbb0/57a","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1411310094592,"padIDs":{"ftp":1}}}
+{"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1411310094592,"padIDs":{"ftp":1}}}
+{"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1411310094593,"padIDs":{"ftp":1}}}
