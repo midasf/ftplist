@@ -1460,3 +1460,11 @@
 {"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1411592463156,"padIDs":{"ftp":1}}}
 {"key":"pad:dump","val":{"atext":{"text":"deb http://ftp.nl.debian.org/debian/ wheezy main contrib non-free deb-src http://ftp.nl.debian.org/debian/ wheezy main contrib non-free  deb http://security.debian.org/ wheezy/updates main contrib non-free deb-src http://security.debian.org/ wheezy/updates main contrib non-free\n\n","attribs":"*0+7q|2+2"},"pool":{"numToAttrib":{"0":["author","a.41VnkGxVqkr7BZTR"]},"nextNum":1},"head":2,"chatHead":-1,"publicStatus":false,"passwordHash":null,"savedRevisions":[]}}
 {"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1411592463156,"padIDs":{"ftp":1,"dump":1}}}
+{"key":"sessionstorage:+ggItsxViCcWCdu6F4v5c0Q3","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"sessionstorage:xzTFe3brcJ80FQyhIryN5UOp","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"sessionstorage:R05o3KudeWTavmz0dNaHQOtG","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"sessionstorage:wzmnhReDO3bocNLXMuIfWt41","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"sessionstorage:hNxSrjYRjsmSI0CdBgzVxniW","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"sessionstorage:cF4gPtZ8aPbugGmoKuH3xKNw","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"sessionstorage:7809ZWks03qe1v8h2HrjJ5/T","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"sessionstorage:QVBNU6+Qra+xsvEHLTuV15/P","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
