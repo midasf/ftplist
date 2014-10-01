@@ -2138,3 +2138,5 @@
 {"key":"pad:sunet","val":{"atext":{"text":"tp.sunet.se/pub/x500/ - Midas Done\nftp.sunet.se/pub/www/ Midas \nftp.sunet.se/pub/vendor/ Midas\nftp://ftp.sunet.se/pub/unix/ Midas\nftp://ftp.sunet.se/pub/usenet/ Midas\n\n\n","attribs":"*0+y|1+1*0+s|1+1*0+u|1+1*0|2+20|2+2"},"pool":{"numToAttrib":{"0":["author","a.41VnkGxVqkr7BZTR"]},"nextNum":1},"head":38,"chatHead":0,"publicStatus":false,"passwordHash":null,"savedRevisions":[]}}
 {"key":"sessionstorage:QSe+BSxUzpR/rbmb8n/L7f5s","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
 {"key":"sessionstorage:4JDLkThGzAa5i5fkapcTN50Q","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"sessionstorage:vZOv/obo2tHSRsaMk1bBLMo+","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"sessionstorage:irIUnlVIQ+48yDijx18lWn8T","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
