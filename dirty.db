@@ -2314,3 +2314,9 @@
 {"key":"pad:sunet","val":{"atext":{"text":"tp.sunet.se/pub/x500/ - Midas Done\nftp.sunet.se/pub/www/ Midas \nftp.sunet.se/pub/vendor/ Midas\nftp://ftp.sunet.se/pub/unix/ Midas\nftp://ftp.sunet.se/pub/usenet/ Midas\n\nAvailable to grab!\n\n\n","attribs":"*0+y|1+1*0+s|1+1*0+u|1+1*0|2+20|1+1*1|1+j|2+2"},"pool":{"numToAttrib":{"0":["author","a.41VnkGxVqkr7BZTR"],"1":["author","a.CqPLtGE2Rtyjz6YJ"]},"nextNum":2},"head":55,"chatHead":0,"publicStatus":false,"passwordHash":null,"savedRevisions":[]}}
 {"key":"globalAuthor:a.CqPLtGE2Rtyjz6YJ","val":{"colorId":9,"name":null,"timestamp":1412235958713,"padIDs":{"ftp":1,"sunet":1}}}
 {"key":"globalAuthor:a.CqPLtGE2Rtyjz6YJ","val":{"colorId":9,"name":null,"timestamp":1412235958713,"padIDs":{"ftp":1,"sunet":1}}}
+{"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1412236890297,"padIDs":{"ftp":1,"dump":1,"sunet":1}}}
+{"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1412236890297,"padIDs":{"ftp":1,"dump":1,"sunet":1}}}
+{"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1412236890297,"padIDs":{"ftp":1,"dump":1,"sunet":1}}}
+{"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1412236890446,"padIDs":{"ftp":1,"dump":1,"sunet":1}}}
+{"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1412236890446,"padIDs":{"ftp":1,"dump":1,"sunet":1}}}
+{"key":"globalAuthor:a.41VnkGxVqkr7BZTR","val":{"colorId":"#ed1534","name":"midas","timestamp":1412236890447,"padIDs":{"ftp":1,"dump":1,"sunet":1}}}
