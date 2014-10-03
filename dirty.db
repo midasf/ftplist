@@ -5336,3 +5336,6 @@
 {"key":"sessionstorage:3N+Fehen9VG3InaaWWuCqx67","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
 {"key":"sessionstorage:3N+Fehen9VG3InaaWWuCqx67","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
 {"key":"sessionstorage:3N+Fehen9VG3InaaWWuCqx67","val":{"cookie":{"path":"/","_expires":null,"originalMaxAge":null,"httpOnly":true}}}
+{"key":"globalAuthor:a.CqPLtGE2Rtyjz6YJ","val":{"colorId":9,"name":null,"timestamp":1412341446411,"padIDs":{"ftp":1,"sunet":1}}}
+{"key":"globalAuthor:a.CqPLtGE2Rtyjz6YJ","val":{"colorId":9,"name":null,"timestamp":1412341446412,"padIDs":{"ftp":1,"sunet":1}}}
+{"key":"globalAuthor:a.CqPLtGE2Rtyjz6YJ","val":{"colorId":9,"name":null,"timestamp":1412341446412,"padIDs":{"ftp":1,"sunet":1}}}
